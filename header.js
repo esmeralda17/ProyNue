@@ -23,9 +23,9 @@ document.write(`
                         <ul class="__slider-header-menu">
                           <li class="__slider-header-item"><a href="index.html">Inicio</a></li>
                           <li class="__slider-header-item"><a href="quienesSomos.html">Quiénes somos</a></li>
-                          <li class="__slider-header-item"><a href="">Plusvalía</a></li>
-                          <li class="__slider-header-item"><a href="">Master Plan</a></li>
-                          <li class="__slider-header-item"><a href="">Ubicación</a></li>
+                          <li class="__slider-header-item"><a href="Plusvalía.html">plusvalía</a></li>
+                          <li class="__slider-header-item"><a href="Master Plan.html">Master Plan</a></li>
+                          <li class="__slider-header-item"><a href="Ubicación.html">Ubicación</a></li>
                           <li class="__slider-header-item"><a href="contactanos.html">Contacto</a></li>
                         </ul>
                       </div>
@@ -48,9 +48,9 @@ document.write(`
                         <ul class="__slider-header-menu">
                           <li class="__slider-header-item"><a href="index.html">Inicio</a></li>
                           <li class="__slider-header-item"><a href="quienesSomos.html">Quiénes somos</a></li>
-                          <li class="__slider-header-item"><a href="">Plusvalia</a></li>
-                          <li class="__slider-header-item"><a href="contactanos.html">Master Plan</a></li>
-                          <li class="__slider-header-item"><a href="">Ubicación</a></li>
+                          <li class="__slider-header-item"><a href="Plusvalía.html">plusvalía</a></li>
+                          <li class="__slider-header-item"><a href="Master Plan.html">Master Plan</a></li>
+                          <li class="__slider-header-item"><a href="Ubicación.html">Ubicación</a></li>
                           <li class="__slider-header-item"><a href="contactanos.html">Contacto</a></li>
                         </ul>
                       </div>
@@ -73,9 +73,9 @@ document.write(`
                         <ul class="__slider-header-menu">
                         <li class="__slider-header-item"><a href="index.html">Inicio</a></li>
                         <li class="__slider-header-item"><a href="quienesSomos.html">Quiénes somos</a></li>
-                        <li class="__slider-header-item"><a href="">Plusvalia</a></li>
-                        <li class="__slider-header-item"><a href="contactanos.html">Master Plan</a></li>
-                        <li class="__slider-header-item"><a href="">Ubicación</a></li>
+                        <li class="__slider-header-item"><a href="Plusvalía.html">plusvalía</a></li>
+                        <li class="__slider-header-item"><a href="Master Plan.html">Master Plan</a></li>
+                        <li class="__slider-header-item"><a href="Ubicación.html">Ubicación</a></li>
                         <li class="__slider-header-item"><a href="contactanos.html">Contacto</a></li>
                         </ul>
                       </div>
