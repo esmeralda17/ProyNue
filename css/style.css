@@ -14053,17 +14053,17 @@ html.boxed .rd-navbar--is-clone {
 	display: none;
 }
 .__slider-header-menu{
-	text-align: center;
-
+	justify-content: center;
 	display: flex;
 	flex-wrap: wrap;
+	flex:auto;
 	margin: auto;
 	margin-top: 3rem;
 }
 .__slider-header-item{
 	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 2.5rem;
-	padding: 0px 40px;
+	padding: 0px 20px;
 }
 .__slider-header-item a:hover{
 	color: var(--colorProy);
@@ -14073,7 +14073,7 @@ html.boxed .rd-navbar--is-clone {
 	border-bottom: solid 2px #fff;
 	font-family: 'Roboto Condensed', sans-serif;
 }
-@media (max-width: 770px) {
+@media (max-width: 550px) {
 	.__slider-header-menu {
 		flex-direction: column;
 	}}

@@ -24,9 +24,9 @@ document.write(`
                         <ul class="__slider-header-menu">
                           <li class="__slider-header-item"><a href="index.html">Quiénes somos</a></li>
                           <li class="__slider-header-item"><a href="">Plusvalía</a></li>
-                          <li class="__slider-header-item"><a href="contactanos.html">Master Plan</a></li>
+                          <li class="__slider-header-item"><a href="">Master Plan</a></li>
                           <li class="__slider-header-item"><a href="">Ubicación</a></li>
-                          <li class="__slider-header-item"><a href="">Contacto</a></li>
+                          <li class="__slider-header-item"><a href="contactanos.html">Contacto</a></li>
                         </ul>
                       </div>
                     </div>
@@ -50,7 +50,7 @@ document.write(`
                           <li class="__slider-header-item"><a href="">Plusvalia</a></li>
                           <li class="__slider-header-item"><a href="contactanos.html">Master Plan</a></li>
                           <li class="__slider-header-item"><a href="">Ubicación</a></li>
-                          <li class="__slider-header-item"><a href="">Contacto</a></li>
+                          <li class="__slider-header-item"><a href="contactanos.html">Contacto</a></li>
                         </ul>
                       </div>
                     </div>
@@ -74,7 +74,7 @@ document.write(`
                         <li class="__slider-header-item"><a href="">Plusvalia</a></li>
                         <li class="__slider-header-item"><a href="contactanos.html">Master Plan</a></li>
                         <li class="__slider-header-item"><a href="">Ubicación</a></li>
-                        <li class="__slider-header-item"><a href="">Contacto</a></li>
+                        <li class="__slider-header-item"><a href="contactanos.html">Contacto</a></li>
                         </ul>
                       </div>
                     </div>
