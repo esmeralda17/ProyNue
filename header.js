@@ -16,14 +16,17 @@ document.write(`
                   <div class="row justify-content-md-center">
                     <div class="col-md-11 col-lg-10 col-xl-9">
                      
-                      <h2 style="font-size: 8.5rem;" class="slider-header css" data-caption-animate="fadeInUp" data-caption-delay="150">BLOG THEME</h2>
-                      <p class="text-bigger slider-text" data-caption-animate="fadeInUp" data-caption-delay="250">will help you solve very complex legal issues.</p>
+                      <h2 style="font-size: 8.5rem;" class="slider-header css" data-caption-animate="fadeInUp" data-caption-delay="150">VILLA
+                      EL MEZQUITAL</h2>
+                      <p class="text-bigger slider-text" data-caption-animate="fadeInUp" data-caption-delay="250">De regreso a nuetras raices.
+                      El campo.</p>
                       <div class="button-block __slider-header-menu" data-caption-animate="fadeInUp" data-caption-delay="400">
                         <ul class="__slider-header-menu">
-                          <li class="__slider-header-item"><a href="index.html">HOME</a></li>
-                          <li class="__slider-header-item"><a href="">BLOG</a></li>
-                          <li class="__slider-header-item"><a href="contactanos.html">CONTACTS</a></li>
-                          <li class="__slider-header-item"><a href="">ABOUT</a></li>
+                          <li class="__slider-header-item"><a href="index.html">Quiénes somos</a></li>
+                          <li class="__slider-header-item"><a href="">Plusvalía</a></li>
+                          <li class="__slider-header-item"><a href="contactanos.html">Master Plan</a></li>
+                          <li class="__slider-header-item"><a href="">Ubicación</a></li>
+                          <li class="__slider-header-item"><a href="">Contacto</a></li>
                         </ul>
                       </div>
                     </div>
@@ -37,14 +40,17 @@ document.write(`
                   <div class="row justify-content-md-center">
                     <div class="col-md-11 col-lg-10 col-xl-9">
                      
-                      <h2 style="font-size: 8.5rem;" class="slider-header css" data-caption-animate="fadeInUp" data-caption-delay="150">BLOG THEME</h2>
-                      <p class="text-bigger slider-text" data-caption-animate="fadeInUp" data-caption-delay="250">will help you solve very complex legal issues.</p>
+                      <h2 style="font-size: 8.5rem;" class="slider-header css" data-caption-animate="fadeInUp" data-caption-delay="150">VILLA
+                      EL MEZQUITAL</h2>
+                      <p class="text-bigger slider-text" data-caption-animate="fadeInUp" data-caption-delay="250">De regreso a nuetras raices.
+                      El campo.</p>
                       <div class="button-block __slider-header-menu" data-caption-animate="fadeInUp" data-caption-delay="400">
                         <ul class="__slider-header-menu">
-                          <li class="__slider-header-item"><a href="index.html">HOME</a></li>
-                          <li class="__slider-header-item"><a href="">BLOG</a></li>
-                          <li class="__slider-header-item"><a href="contactanos.html">CONTACTS</a></li>
-                          <li class="__slider-header-item"><a href="">ABOUT</a></li>
+                          <li class="__slider-header-item"><a href="index.html">Quiénes somos</a></li>
+                          <li class="__slider-header-item"><a href="">Plusvalia</a></li>
+                          <li class="__slider-header-item"><a href="contactanos.html">Master Plan</a></li>
+                          <li class="__slider-header-item"><a href="">Ubicación</a></li>
+                          <li class="__slider-header-item"><a href="">Contacto</a></li>
                         </ul>
                       </div>
                     </div>
@@ -58,14 +64,17 @@ document.write(`
                   <div class="row justify-content-md-center">
                     <div class="col-md-11 col-lg-10 col-xl-9">
                      
-                      <h2 style="font-size: 8.5rem;" class="slider-header css" data-caption-animate="fadeInUp" data-caption-delay="150">BLOG THEME</h2>
-                      <p class="text-bigger slider-text" data-caption-animate="fadeInUp" data-caption-delay="250">will help you solve very complex legal issues.</p>
+                      <h2 style="font-size: 8.5rem;" class="slider-header css" data-caption-animate="fadeInUp" data-caption-delay="150">VILLA
+                      EL MEZQUITAL</h2>
+                      <p class="text-bigger slider-text" data-caption-animate="fadeInUp" data-caption-delay="250">De regreso a nuetras raices.
+                      El campo.</p>
                       <div class="button-block __slider-header-menu" data-caption-animate="fadeInUp" data-caption-delay="400">
                         <ul class="__slider-header-menu">
-                          <li class="__slider-header-item"><a href="">HOME</a></li>
-                          <li class="__slider-header-item"><a href="">BLOG</a></li>
-                          <li class="__slider-header-item"><a href="">CONTACTS</a></li>
-                          <li class="__slider-header-item"><a href="">ABOUT</a></li>
+                        <li class="__slider-header-item"><a href="index.html">Quiénes somos</a></li>
+                        <li class="__slider-header-item"><a href="">Plusvalia</a></li>
+                        <li class="__slider-header-item"><a href="contactanos.html">Master Plan</a></li>
+                        <li class="__slider-header-item"><a href="">Ubicación</a></li>
+                        <li class="__slider-header-item"><a href="">Contacto</a></li>
                         </ul>
                       </div>
                     </div>
