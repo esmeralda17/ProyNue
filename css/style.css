@@ -14077,3 +14077,9 @@ html.boxed .rd-navbar--is-clone {
 	.__slider-header-menu {
 		flex-direction: column;
 	}}
+.swiper-wrapper .text-center{
+	height: 90Vh;
+}
+.headermenu{
+	margin-top: 15Vh;
+}

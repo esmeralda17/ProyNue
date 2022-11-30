@@ -8,11 +8,11 @@ document.write(`
       </div>
     </div>
     <div class="page">
-<div class="swiper-container swiper-slider swiper-variant-1 bg-black" data-loop="false" data-autoplay="5500" data-simulate-touch="true">
-          <div class="swiper-wrapper text-center">
+<div class="swiper-container swiper-slider swiper-variant-1 bg-black" data-loop="false" data-autoplay="5500"  data-simulate-touch="true">
+          <div class="swiper-wrapper text-center " >
             <div class="swiper-slide" data-slide-bg="images/slide-3.jpg">
               <div class="swiper-slide-caption text-center">
-                <div class="container">
+                <div class="container headermenu">
                   <div class="row justify-content-md-center">
                     <div class="col-md-11 col-lg-10 col-xl-9">
                      
@@ -33,7 +33,7 @@ document.write(`
             </div>
             <div class="swiper-slide" data-slide-bg="images/slide-2.jpg">
               <div class="swiper-slide-caption text-center">
-                <div class="container">
+                <div class="container headermenu">
                   <div class="row justify-content-md-center">
                     <div class="col-md-11 col-lg-10 col-xl-9">
                      
@@ -54,7 +54,7 @@ document.write(`
             </div>
             <div class="swiper-slide" data-slide-bg="images/slide-1.jpg">
               <div class="swiper-slide-caption text-center">
-                <div class="container">
+                <div class="container headermenu">
                   <div class="row justify-content-md-center">
                     <div class="col-md-11 col-lg-10 col-xl-9">
                      
