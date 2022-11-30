@@ -13028,7 +13028,7 @@ html.boxed .rd-navbar--is-clone {
 
 .swiper-variant-1 .slider-header {
 	margin-top: 20px;
-	font-size: 26px;
+	font-size: 6rem;
 	font-style: normal;
 }
 
@@ -13072,14 +13072,14 @@ html.boxed .rd-navbar--is-clone {
 
 @media (min-width: 768px) {
 	.swiper-variant-1, .swiper-variant-1 .swiper-wrapper {
-		min-height: 33.90625vw;
+		min-height: 15.90625vw;
 	}
 	.swiper-variant-1 .swiper-slide-caption {
 		padding: 60px 0 115px;
 	}
 	.swiper-variant-1 .slider-header {
 		margin-top: 10px;
-		font-size: 36px;
+		font-size: 8.5rem;
 	}
 	.swiper-variant-1 .slider-text {
 		display: block;
@@ -13096,7 +13096,7 @@ html.boxed .rd-navbar--is-clone {
 		opacity: .2;
 	}
 	.swiper-variant-1 .slider-header {
-		font-size: 42px;
+		font-size: 8.5rem;
 	}
 	.swiper-variant-1 .swiper-slide-caption {
 		padding: 120px 0 145px;
@@ -13121,7 +13121,7 @@ html.boxed .rd-navbar--is-clone {
 
 @media (min-width: 1200px) {
 	.swiper-variant-1 .slider-header {
-		font-size: 50px;
+		font-size: 8.5rem;
 	}
 	.swiper-variant-1 .swiper-slide:after {
 		display: none;
@@ -14069,17 +14069,31 @@ html.boxed .rd-navbar--is-clone {
 	color: var(--colorProy);
 }
 .slider-header{
+	font-size: 8.5rem;
 	padding-bottom: 3rem;
 	border-bottom: solid 2px #fff;
 	font-family: 'Roboto Condensed', sans-serif;
+}
+.headermenu{
+	margin-top: 15Vh;
+}
+.subtitle h2{
+	
+}
+.swiper-wrapper .text-center{
+	height: 90Vh;
 }
 @media (max-width: 550px) {
 	.__slider-header-menu {
 		flex-direction: column;
 	}}
-.swiper-wrapper .text-center{
-	height: 90Vh;
+@media (max-width: 500px) {
+	.headermenu {
+		margin-top: auto;
+	}
+	.slider-header{
+		font-size: 4rem;
+	}
 }
-.headermenu{
-	margin-top: 15Vh;
-}
+
+

@@ -13,16 +13,16 @@ document.write(`
             <div class="swiper-slide" data-slide-bg="images/slide-3.jpg">
               <div class="swiper-slide-caption text-center">
                 <div class="container headermenu">
-                  <div class="row justify-content-md-center">
-                    <div class="col-md-11 col-lg-10 col-xl-9">
-                     
-                      <h2 style="font-size: 8.5rem;" class="slider-header css" data-caption-animate="fadeInUp" data-caption-delay="150">VILLA
+                  <div class="row justify-content-xl-center">
+                    <div class="col-md-12 col-lg-11 col-xl-10">
+                      <h2  class="slider-header subtitle" data-caption-animate="fadeInUp" data-caption-delay="150">VILLA
                       EL MEZQUITAL</h2>
                       <p class="text-bigger slider-text" data-caption-animate="fadeInUp" data-caption-delay="250">De regreso a nuetras raices.
                       El campo.</p>
                       <div class="button-block __slider-header-menu" data-caption-animate="fadeInUp" data-caption-delay="400">
                         <ul class="__slider-header-menu">
-                          <li class="__slider-header-item"><a href="index.html">Quiénes somos</a></li>
+                          <li class="__slider-header-item"><a href="index.html">Inicio</a></li>
+                          <li class="__slider-header-item"><a href="">Quiénes somos</a></li>
                           <li class="__slider-header-item"><a href="">Plusvalía</a></li>
                           <li class="__slider-header-item"><a href="">Master Plan</a></li>
                           <li class="__slider-header-item"><a href="">Ubicación</a></li>
@@ -38,15 +38,16 @@ document.write(`
               <div class="swiper-slide-caption text-center">
                 <div class="container headermenu">
                   <div class="row justify-content-md-center">
-                    <div class="col-md-11 col-lg-10 col-xl-9">
+                    <div class="col-md-12 col-lg-11 col-xl-10">
                      
-                      <h2 style="font-size: 8.5rem;" class="slider-header css" data-caption-animate="fadeInUp" data-caption-delay="150">VILLA
+                      <h2 class="slider-header subtitle" data-caption-animate="fadeInUp" data-caption-delay="150">VILLA
                       EL MEZQUITAL</h2>
                       <p class="text-bigger slider-text" data-caption-animate="fadeInUp" data-caption-delay="250">De regreso a nuetras raices.
                       El campo.</p>
                       <div class="button-block __slider-header-menu" data-caption-animate="fadeInUp" data-caption-delay="400">
                         <ul class="__slider-header-menu">
-                          <li class="__slider-header-item"><a href="index.html">Quiénes somos</a></li>
+                          <li class="__slider-header-item"><a href="index.html">Inicio</a></li>
+                          <li class="__slider-header-item"><a href="">Quiénes somos</a></li>
                           <li class="__slider-header-item"><a href="">Plusvalia</a></li>
                           <li class="__slider-header-item"><a href="contactanos.html">Master Plan</a></li>
                           <li class="__slider-header-item"><a href="">Ubicación</a></li>
@@ -62,14 +63,15 @@ document.write(`
               <div class="swiper-slide-caption text-center">
                 <div class="container headermenu">
                   <div class="row justify-content-md-center">
-                    <div class="col-md-11 col-lg-10 col-xl-9">
+                    <div class="col-md-12 col-lg-11 col-xl-10">
                      
-                      <h2 style="font-size: 8.5rem;" class="slider-header css" data-caption-animate="fadeInUp" data-caption-delay="150">VILLA
+                      <h2 class="slider-header subtitle" data-caption-animate="fadeInUp" data-caption-delay="150">VILLA
                       EL MEZQUITAL</h2>
                       <p class="text-bigger slider-text" data-caption-animate="fadeInUp" data-caption-delay="250">De regreso a nuetras raices.
                       El campo.</p>
                       <div class="button-block __slider-header-menu" data-caption-animate="fadeInUp" data-caption-delay="400">
                         <ul class="__slider-header-menu">
+                        <li class="__slider-header-item"><a href="index.html">Inicio</a></li>
                         <li class="__slider-header-item"><a href="index.html">Quiénes somos</a></li>
                         <li class="__slider-header-item"><a href="">Plusvalia</a></li>
                         <li class="__slider-header-item"><a href="contactanos.html">Master Plan</a></li>
