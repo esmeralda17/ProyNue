@@ -884,7 +884,6 @@ address {
 }
 
 .snackbars-right {
-	display: inline-block;
 	float: right;
 	text-transform: uppercase;
 }
@@ -13819,22 +13818,13 @@ html.boxed .rd-navbar--is-clone {
 	margin-top: 14px;
 }
 
-.select2-container--bootstrap.input-lg.select2-container--open .select2-selection--single {
-	/**
-     * Make the dropdown arrow point up while the dropdown is visible.
-     */
-}
 
 .select2-container--bootstrap.input-lg.select2-container--open .select2-selection--single .select2-selection__arrow b {
 	border-color: transparent transparent #2a2b2b transparent;
 	border-width: 0 5px 5px 5px;
 }
 
-.input-group-lg .select2-container--bootstrap.select2-container--open .select2-selection--single {
-	/**
-     * Make the dropdown arrow point up while the dropdown is visible.
-     */
-}
+
 
 .input-group-lg .select2-container--bootstrap.select2-container--open .select2-selection--single .select2-selection__arrow b {
 	border-color: transparent transparent #2a2b2b transparent;
@@ -14077,9 +14067,7 @@ html.boxed .rd-navbar--is-clone {
 .headermenu{
 	margin-top: 15Vh;
 }
-.subtitle h2{
-	
-}
+
 .swiper-wrapper .text-center{
 	height: 90Vh;
 }
