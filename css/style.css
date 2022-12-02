@@ -4403,20 +4403,23 @@ blockquote cite {
 
 .box-cart {
 	padding: 40px 25px;
+	justify-content: center;
 }
 
-.box-cart .box-cart-image {
+/* .box-cart .box-cart-image {
 	display: none;
 }
-
+ */
 @media (min-width: 768px) {
 	.box-cart {
 		padding: 80px 45px 65px 45px;
+		justify-content: center;
 	}
 }
 
 @media (min-width: 992px) {
 	.box-cart {
+		justify-content: center;
 		display: -ms-flexbox;
 		display: -webkit-flex;
 		display: flex;
@@ -4441,7 +4444,9 @@ blockquote cite {
 		padding-right: 45px;
 	}
 }
-
+.box-cart img{
+	width: auto;
+}
 .post-preview {
 	max-width: 320px;
 }

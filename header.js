@@ -24,7 +24,7 @@ document.write(`
                           <li class="__slider-header-item"><a href="index.html">Inicio</a></li>
                           <li class="__slider-header-item"><a href="quienesSomos.html">Quiénes somos</a></li>
                           <li class="__slider-header-item"><a href="Plusvalía.html">plusvalía</a></li>
-                          <li class="__slider-header-item"><a href="Master Plan.html">Master Plan</a></li>
+                          <li class="__slider-header-item"><a href="MasterPlan.html">Master Plan</a></li>
                           <li class="__slider-header-item"><a href="Ubicación.html">Ubicación</a></li>
                           <li class="__slider-header-item"><a href="contactanos.html">Contacto</a></li>
                         </ul>
@@ -49,7 +49,7 @@ document.write(`
                           <li class="__slider-header-item"><a href="index.html">Inicio</a></li>
                           <li class="__slider-header-item"><a href="quienesSomos.html">Quiénes somos</a></li>
                           <li class="__slider-header-item"><a href="Plusvalía.html">plusvalía</a></li>
-                          <li class="__slider-header-item"><a href="Master Plan.html">Master Plan</a></li>
+                          <li class="__slider-header-item"><a href="MasterPlan.html">Master Plan</a></li>
                           <li class="__slider-header-item"><a href="Ubicación.html">Ubicación</a></li>
                           <li class="__slider-header-item"><a href="contactanos.html">Contacto</a></li>
                         </ul>
@@ -74,7 +74,7 @@ document.write(`
                         <li class="__slider-header-item"><a href="index.html">Inicio</a></li>
                         <li class="__slider-header-item"><a href="quienesSomos.html">Quiénes somos</a></li>
                         <li class="__slider-header-item"><a href="Plusvalía.html">plusvalía</a></li>
-                        <li class="__slider-header-item"><a href="Master Plan.html">Master Plan</a></li>
+                        <li class="__slider-header-item"><a href="MasterPlan.html">Master Plan</a></li>
                         <li class="__slider-header-item"><a href="Ubicación.html">Ubicación</a></li>
                         <li class="__slider-header-item"><a href="contactanos.html">Contacto</a></li>
                         </ul>
