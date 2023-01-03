@@ -14089,4 +14089,7 @@ html.boxed .rd-navbar--is-clone {
 	}
 }
 
-
+.lot-area-item-detail{
+	height: 25px !important;
+	min-width: 25px !important;
+}
