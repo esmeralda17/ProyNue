@@ -6247,11 +6247,12 @@
     -webkit-box-shadow: 0 1px 0.5rem rgba(0, 0, 0, 0.2);
             box-shadow: 0 1px 0.5rem rgba(0, 0, 0, 0.2);
     color: #fff;
-    height: 30px;
-    min-width: 30px;
+    height: 20px;
+    min-width: 20px;
     text-align: center;
+    padding-bottom: 15px;
     border-radius: 4rem;
-    line-height: 30px;
+    line-height: 20px;
     display: block;
     white-space: nowrap;
     font-size: 0.8rem; 
