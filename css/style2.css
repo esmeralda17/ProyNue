@@ -6210,17 +6210,19 @@
     overflow-x: scroll;
     width: auto;
     background: #123010 url("/content/ccr/images/pattern-grass.jpg");
-    display: block;
+    display: inline-block;
     position: relative; }
     .lot-picker-map::after {
-      display: block;
+      display: inline-block;
       clear: both;
       content: ""; }
   
   .lot-picker-image {
     margin-right: 1rem;
-    width: 1200px; }
-  
+    min-width: 1600px; 
+    min-height: 1200px;
+  }
+  img.oversize {max-width: none}
   .lot-picker-image-mz {
     margin-right: 1rem; }
   
@@ -6247,12 +6249,12 @@
     -webkit-box-shadow: 0 1px 0.5rem rgba(0, 0, 0, 0.2);
             box-shadow: 0 1px 0.5rem rgba(0, 0, 0, 0.2);
     color: #fff;
-    height: 20px;
-    min-width: 20px;
+    height: 3%;
+    width: 4.5%;
     text-align: center;
-    padding-bottom: 15px;
+    padding-bottom: 4%;
     border-radius: 4rem;
-    line-height: 20px;
+    line-height: 2rem;
     display: block;
     white-space: nowrap;
     font-size: 0.8rem; 
