@@ -14133,19 +14133,19 @@ transform: rotate(-90deg);
 	  white-space: nowrap;
 	  font-size: 40%; 
 	  }
-	  /* 
+	  
 	  .lot-available {
-		background-color: #28a745; color: #28a74500;}
+		background-color: #28a745;}
 	  
 	  .lot-blocked {
-		background-color: #ffc107; color: #ffc10700;}
+		background-color: #ffc107;}
 	  
 	  .lot-sold {
-		background-color: #dc3545; color: #dc354500;} */
+		background-color: #dc3545;}
 	  
 	  .lot-disabled {
 		background-color: #6c757d;
-		color: #6c757d !important;
+		
 		-webkit-box-shadow: none;
 				box-shadow: none; }
 }
