@@ -14133,20 +14133,6 @@ transform: rotate(-90deg);
 	  white-space: nowrap;
 	  font-size: 40%; 
 	  }
-	  .norte .lot-area-item-detail{
-		transform: rotate(-90deg);
-		-webkit-transform: rotate(-90deg);
-		-moz-transform: rotate(-90deg);
-		-ms-transform: rotate(-90deg);
-		-o-transform: rotate(-90deg);
-}
-.sur .lot-area-item-detail{
-	transform: rotate(-90deg);
-	-webkit-transform: rotate(-90deg);
-	-moz-transform: rotate(-90deg);
-	-ms-transform: rotate(-90deg);
-	-o-transform: rotate(-90deg);
-}
 	  /* 
 	  .lot-available {
 		background-color: #28a745; color: #28a74500;}
