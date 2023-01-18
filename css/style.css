@@ -14114,11 +14114,26 @@ html.boxed .rd-navbar--is-clone {
 	  text-align: center;
 	  padding-bottom: 4%;
 	  border-radius: 4rem;
-	  line-height: 2rem;
+	  line-height: 100%;
 	  display: block;
 	  white-space: nowrap;
-	  font-size: 0.8rem; 
+	  font-size: 40%; 
 	  }
+	  .norte .lot-area-item-detail{
+		transform: rotate(-90deg);
+		-webkit-transform: rotate(-90deg);
+		-moz-transform: rotate(-90deg);
+		-ms-transform: rotate(-90deg);
+		-o-transform: rotate(-90deg);
+}
+.sur .lot-area-item-detail{
+	transform: rotate(-90deg);
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+	-ms-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+}
+	  /* 
 	  .lot-available {
 		background-color: #28a745; color: #28a74500;}
 	  
@@ -14126,7 +14141,7 @@ html.boxed .rd-navbar--is-clone {
 		background-color: #ffc107; color: #ffc10700;}
 	  
 	  .lot-sold {
-		background-color: #dc3545; color: #dc354500;}
+		background-color: #dc3545; color: #dc354500;} */
 	  
 	  .lot-disabled {
 		background-color: #6c757d;
