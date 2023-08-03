@@ -12,6 +12,21 @@ button::-moz-focus-inner {
 	border: 0;
 }
 
+#columnasplusv{
+	column-count:3;
+	column-gap:20px;
+	
+ }
+ #columnasAbout{
+	column-count:2;
+	column-gap:20px;
+	
+ }
+ #columnasplusv1{
+	column-count:3;
+	column-gap:20px;
+	
+ }
 :focus {
 	outline: none;
 }

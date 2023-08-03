@@ -15,10 +15,8 @@ document.write(`
                 <div class="container headermenu">
                   <div class="row justify-content-xl-center">
                     <div class="col-md-12 col-lg-11 col-xl-10">
-                      <h2  class="slider-header subtitle" data-caption-animate="fadeInUp" data-caption-delay="150">VILLA
-                      EL MEZQUITAL</h2>
-                      <p class="text-bigger slider-text" data-caption-animate="fadeInUp" data-caption-delay="250">De regreso a nuetras raices.
-                      El campo.</p>
+                      <h2  class="slider-header subtitle" data-caption-animate="fadeInUp" data-caption-delay="150" >Cumbre de los Sauces</h2>
+                      <p class="text-bigger slider-text" data-caption-animate="fadeInUp" data-caption-delay="250">Huejúcar, JAL, México.</p>
                       <div class="button-block __slider-header-menu" data-caption-animate="fadeInUp" data-caption-delay="400">
                         <ul class="__slider-header-menu">
                           <li class="__slider-header-item"><a href="index.html">Inicio</a></li>
@@ -40,10 +38,8 @@ document.write(`
                   <div class="row justify-content-md-center">
                     <div class="col-md-12 col-lg-11 col-xl-10">
                      
-                      <h2 class="slider-header subtitle" data-caption-animate="fadeInUp" data-caption-delay="150">VILLA
-                      EL MEZQUITAL</h2>
-                      <p class="text-bigger slider-text" data-caption-animate="fadeInUp" data-caption-delay="250">De regreso a nuetras raices.
-                      El campo.</p>
+                      <h2 class="slider-header subtitle" data-caption-animate="fadeInUp" data-caption-delay="150">Cumbre de los Sauces</h2>
+                      <p class="text-bigger slider-text" data-caption-animate="fadeInUp" data-caption-delay="250">Huejúcar, JAL, México.</p>
                       <div class="button-block __slider-header-menu" data-caption-animate="fadeInUp" data-caption-delay="400">
                         <ul class="__slider-header-menu">
                           <li class="__slider-header-item"><a href="index.html">Inicio</a></li>
@@ -65,10 +61,8 @@ document.write(`
                   <div class="row justify-content-md-center">
                     <div class="col-md-12 col-lg-11 col-xl-10">
                      
-                      <h2 class="slider-header subtitle" data-caption-animate="fadeInUp" data-caption-delay="150">VILLA
-                      EL MEZQUITAL</h2>
-                      <p class="text-bigger slider-text" data-caption-animate="fadeInUp" data-caption-delay="250">De regreso a nuetras raices.
-                      El campo.</p>
+                      <h2 class="slider-header subtitle" data-caption-animate="fadeInUp" data-caption-delay="150">Cumbre de los Sauces</h2>
+                      <p class="text-bigger slider-text" data-caption-animate="fadeInUp" data-caption-delay="250">Huejúcar, JAL, México.</p>
                       <div class="button-block __slider-header-menu" data-caption-animate="fadeInUp" data-caption-delay="400">
                         <ul class="__slider-header-menu">
                         <li class="__slider-header-item"><a href="index.html">Inicio</a></li>
