@@ -10,7 +10,6 @@ document.write(`
                   </div>
                   
                   <div class="col-md-6 col-lg-4 col-xl-4">
-                  <br>
                     <p class="h7">Teléfono</p>
                     <div class="row" style="max-width: 270px;">
                     <div class="unit unit-horizontal unit-spacing-md align-items-center">
@@ -25,7 +24,6 @@ document.write(`
                     </div>
                   </div>
                   <div class="col-md-6 col-lg-4 col-xl-4">
-                  <br>
                     <p class="h7">Contact us</p>
                     <address class="contact-info text-left">
                       <div class="unit unit-horizontal unit-spacing-md">
