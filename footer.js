@@ -1,6 +1,7 @@
 document.write(`
 <div class="section-40 section-md-55">
           <div class="container">
+          <center>
             <div class="row justify-content-sm-center">
               <div class="col-sm-9 col-md-11 col-xl-12">
                 <div class="row row-50">
@@ -36,6 +37,7 @@ document.write(`
               </div>
             </div>
           </div>
+        </center>
         </div>
         <div class="container">
           <hr>
